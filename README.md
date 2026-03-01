@@ -79,7 +79,7 @@ Target Domain
 ### One-Command Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/webhunter-pro.git
+git clone https://github.com/rehanmuzafar/webhunter-pro.git
 cd webhunter-pro
 chmod +x install_tools.sh
 sudo bash install_tools.sh
