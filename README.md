@@ -234,4 +234,4 @@ Only use WebHunter Pro on targets you have explicit written permission to test. 
 
 ## Author
 Rehan Muzafar
-Offensive Security Researcher | Web App Pentester | CTF Player
+(Offensive Security Researcher | Web App Pentester | CTF Player)
