@@ -1,4 +1,4 @@
-# WebHunter Pro v2.0
+# WebHunter Pro 
 
 > Full-stack automated web exploitation framework built for professional bug bounty hunters and penetration testers.
 
